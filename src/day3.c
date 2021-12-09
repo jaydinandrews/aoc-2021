@@ -38,7 +38,7 @@ void part1(){
     }
   }
   printf("\n");
-  flcose(fp);
+  fclose(fp);
 }
 
 int main(){
