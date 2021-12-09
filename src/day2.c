@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 void part1(){
   FILE *fp = fopen("../input/day2.txt", "r");
