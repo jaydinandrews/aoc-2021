@@ -38,11 +38,8 @@ void part1(){
     }
   }
   printf("\n");
-<<<<<<< HEAD
+
   fclose(fp);
-=======
-  flcose(fp);
->>>>>>> c256ad23edfc2b4b568adcfaa53397861746af41
 }
 
 int main(){
