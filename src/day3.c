@@ -38,11 +38,7 @@ void part1(){
     }
   }
   printf("\n");
-<<<<<<< HEAD
   fclose(fp);
-=======
-  flcose(fp);
->>>>>>> complete day 3 part 1
 }
 
 int main(){
